@@ -1,3 +1,5 @@
+# update 4/15/23 - this is a teribble skidded socket.io project from repl. don't use it as it is very vulnerable to XSS attacks. I was very dumb back when I made this a year ago.
+
 # Orbit Chatbox V.1.1
 A chatbox made with js and html.
 This is mainly used for schools since discord and other messaging softwares are usually blocked.
