@@ -1,4 +1,4 @@
-# update 4/15/23 - this is a teribble skidded socket.io project from repl. don't use it as it is very vulnerable to XSS attacks. I was very dumb back when I made this 2 years ago.
+# update 4/16/23 - this is a teribble skidded socket.io project from repl. don't use it as it is very vulnerable to XSS attacks. I was very dumb back when I made this 2 years ago.
 
 # Orbit Chatbox V.1.1
 A chatbox made with js and html.
